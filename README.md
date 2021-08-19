@@ -1,6 +1,6 @@
 # flutter_slider_indicators
 
-A new Flutter project on Sliders, Indicators and PopUpMenuButton.
+A new Flutter project on Sliders, and Indicators.
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
